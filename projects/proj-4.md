@@ -3,7 +3,7 @@ layout: post
 title: 'Multimedia'
 ---
 
-Prints, collage, anything not easily definable may just wind up here.
+Prints, collages, anything not easily definable may just wind up here.
 
 {% include image.html image="projects/proj-4/Final.jpg" %}
 
