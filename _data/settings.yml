@@ -2,17 +2,16 @@
 # General Site Settings
 
 menu:
-- {name: 'Art Portfolio', url: ''}
 - {name: 'About Me',    url: 'about'}
 
 #-------------------------------
 # Projects Section
 
 projects:
-- {name: 'Project One',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
+- {name: 'Digital Art',   url: 'proj-1'}
+- {name: 'Paintings',   url: 'proj-2'}
+- {name: 'Drawings', url: 'proj-3'}
+- {name: 'Multimedia',  url: 'proj-4'}
 
 #-------------------------------
 # Contact Section
