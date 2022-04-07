@@ -1,8 +1,38 @@
 ---
 layout: post
-title: 'Project Two'
+title: 'Paintings'
 ---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+Oils, acrylics, maybe even watercolors. Anything made with some type of paint is a painting.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+{% include image.html image="projects/proj-2/Final Painting 2.jpg" %}
+
+{% include image.html image="projects/proj-2/Symbolic Color 1.jpg" %}
+
+{% include image.html image="projects/proj-2/Symbolic Color 2.jpg" %}
+
+{% include image.html image="projects/proj-2/Symbolic Color 3.jpg" %}
+
+{% include image.html image="projects/proj-2/Spatial - 1.jpg" %}
+
+{% include image.html image="projects/proj-2/Spatial - 2.jpg" %}
+
+{% include image.html image="projects/proj-2/Spatial - 3.jpg" %}
+
+{% include image.html image="projects/proj-2/Color Interaction.jpg" %}
+
+{% include image.html image="projects/proj-2/Landscape.jpg" %}
+
+{% include image.html image="projects/proj-2/Architecture.jpg" %}
+
+{% include image.html image="projects/proj-2/Alternative Tools.jpg" %}
+
+{% include image.html image="projects/proj-2/Alt Materials Image Details.jpg" %}
+
+{% include image.html image="projects/proj-2/Final Painting 1.jpg" %}
+
+{% include image.html image="projects/proj-2/Still Life 2.jpg" %}
+
+{% include image.html image="projects/proj-2/Disco Ball.jpg" %}
+
+{% include image.html image="projects/proj-2/Still Life 1.jpg" %}
