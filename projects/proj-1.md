@@ -6,9 +6,9 @@ Paint Tool SAI, Photoshop, Illustrator. If it was made through digital means, it
 
 {% include image.html image="projects/proj-1/Song Art.jpg" %}
 
-{% include image.html image="projects/proj-1/Book Art 2.jpg" %}
-
 {% include image.html image="projects/proj-1/Portrait.png" %}
+
+{% include image.html image="projects/proj-1/Book Art 2.jpg" %}
 
 {% include image.html image="projects/proj-1/Portrait 3.png" %}
 
@@ -29,3 +29,9 @@ Paint Tool SAI, Photoshop, Illustrator. If it was made through digital means, it
 {% include image.html image="projects/proj-1/Bandages.png" %}
 
 {% include image.html image="projects/proj-1/Self Portrait.png" %}
+
+{% include image.html image="projects/proj-1/Illustrator Scene 1.jpg" %}
+
+{% include image.html image="projects/proj-1/Illustrator Scene 2.jpg" %}
+
+{% include image.html image="projects/proj-1/Illustrator Scene 3.jpg" %}
