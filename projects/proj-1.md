@@ -29,7 +29,3 @@ Paint Tool SAI, Photoshop, Illustrator. If it was made through digital means, it
 {% include image.html image="projects/proj-1/Bandages.png" %}
 
 {% include image.html image="projects/proj-1/Book Art 2.jpg" %}
-
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
-
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
