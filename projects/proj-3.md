@@ -17,11 +17,7 @@ Charcoal, graphite, or any other pencil-like medium (but mostly charcoal) will m
 
 {% include image.html image="projects/proj-3/6.jpg" %}
 
-{% include image.html image="projects/proj-3/7.jpg" %}
-
 {% include image.html image="projects/proj-3/8.jpg" %}
-
-{% include image.html image="projects/proj-3/9.jpg" %}
 
 {% include image.html image="projects/proj-3/11.jpg" %}
 
