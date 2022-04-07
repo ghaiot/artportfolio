@@ -8,7 +8,7 @@ permalink: /about
 
 If it's after mid-January, my age is whatever year it is minus two millennia. Unless you *want* me to be over 2,000 years old, in which case, scratch the subtraction. Average height. Average hair. Grey eyes. She/her. 
 
-I love music. I love cats (dogs, too). I love cold weather (cold is 100x better than hot, and I *will* die on that hill). I love flannel shirts. I love reading.
+I love music. I love cats (dogs, too). I love languages and linguistics. I love cold weather (cold is 100x better than hot, and I *will* die on that hill). I love flannel shirts. I love reading.
 
 I love writing. Probably more than anything else, if we're being honest, but that's not the focus here. The focus is art.
 
