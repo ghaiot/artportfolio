@@ -6,7 +6,7 @@ permalink: /about
 
 # Brittany M. Cook
 
-If it's after mid-January, my age is whatever year it is minus two millennia. Unless you *want* me to be over 2,000 years old, in which case, scratch the subtraction. Average height. Average hair. Grey eyes. She/her. 
+If it's after mid-January, my age is whatever year it is minus two millennia.
 
 I love music. I love cats (dogs, too). I love languages and linguistics. I love cold weather (cold is 100x better than hot, and I *will* die on that hill). I love flannel shirts. I love reading.
 
