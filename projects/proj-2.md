@@ -5,6 +5,10 @@ title: 'Paintings'
 
 Oils, acrylics, maybe even watercolors. Anything made with some type of paint is a painting.
 
+{% include image.html image="projects/proj-2/Painting 3.jpg" %}
+
+{% include image.html image="projects/proj-2/Painting 2.jpg" %}
+
 {% include image.html image="projects/proj-2/Final Painting 2.jpg" %}
 
 {% include image.html image="projects/proj-2/Symbolic Color 1.jpg" %}
