@@ -5,6 +5,8 @@ title: 'Drawings'
 
 Charcoal, graphite, or any other pencil-like medium (but mostly charcoal) will make a drawing.
 
+{% include image.html image="projects/proj-3/Painting 1.jpg" %}
+
 {% include image.html image="projects/proj-3/1.jpg" %}
 
 {% include image.html image="projects/proj-3/2.jpg" %}
