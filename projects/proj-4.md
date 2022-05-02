@@ -5,6 +5,18 @@ title: 'Multimedia'
 
 Prints, collages, anything not easily definable may just wind up here.
 
+{% include image.html image="projects/proj-4/Painting 2.jpg" %}
+
+{% include image.html image="projects/proj-4/Print 5.jpg" %}
+
+{% include image.html image="projects/proj-4/Print 4.jpg" %}
+
+{% include image.html image="projects/proj-4/Print 3.jpg" %}
+
+{% include image.html image="projects/proj-4/Print 2.jpg" %}
+
+{% include image.html image="projects/proj-4/Print 1.jpg" %}
+
 {% include image.html image="projects/proj-4/Final.jpg" %}
 
 {% include image.html image="projects/proj-4/Chaos1.jpg" %}
