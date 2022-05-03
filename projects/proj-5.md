@@ -24,9 +24,9 @@ A collection of works displayed in professional settings.
 
 {% include image.html image="projects/proj-5/Print 3.jpg" %}
 
-{% include image.html image="projects/proj-5/Print 4.jpg" %}
-
 {% include image.html image="projects/proj-5/Print 5.jpg" %}
+
+{% include image.html image="projects/proj-5/Print 4.jpg" %}
 
 {% include image.html image="projects/proj-5/Prints 5.jpg" %}
 
