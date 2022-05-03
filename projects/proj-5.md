@@ -3,7 +3,7 @@ layout: post
 title: 'Exhibitions'
 ---
 
-A collection of any works displayed in a professional setting.
+A collection of works displayed in professional settings.
 
 
 ### Breathe
