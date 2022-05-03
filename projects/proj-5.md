@@ -34,8 +34,6 @@ A collection of works displayed in professional settings.
 
 {% include image.html image="projects/proj-5/Angle 3.jpg" %}
 
-{% include image.html image="projects/proj-5/Angle 4.jpg" %}
-
 {% include image.html image="projects/proj-5/Angle 5.jpg" %}
 
 {% include image.html image="projects/proj-5/Angle 6.jpg" %}
@@ -43,5 +41,3 @@ A collection of works displayed in professional settings.
 {% include image.html image="projects/proj-5/Angle 7.jpg" %}
 
 {% include image.html image="projects/proj-5/Angle 8.jpg" %}
-
-{% include image.html image="projects/proj-5/Angle 9.jpg" %}
