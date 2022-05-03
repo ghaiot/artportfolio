@@ -6,9 +6,9 @@ title: 'Exhibitions'
 A collection of any works displayed in a professional setting.
 
 
-## Breathe
-#### _Reception held April 29, 2022_
-#### _Kresge Gallery, Lyon College, Batesville, AR_
+### Breathe
+### _Reception held April 29, 2022_
+### _Kresge Gallery, Lyon College, Batesville, AR_
 
 {% include image.html image="projects/proj-5/Painting 1.jpg" %}
 
