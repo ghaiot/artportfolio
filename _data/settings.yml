@@ -8,6 +8,7 @@ menu:
 # Projects Section
 
 projects:
+- {name: 'Exhibitions', url: 'proj-5'}
 - {name: 'Digital Art',   url: 'proj-1'}
 - {name: 'Paintings',   url: 'proj-2'}
 - {name: 'Drawings', url: 'proj-3'}
