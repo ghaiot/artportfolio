@@ -3,6 +3,7 @@
 
 menu:
 - {name: 'About Me',    url: 'about'}
+- {name: 'Contact',    url: 'contact'}
 
 #-------------------------------
 # Projects Section
