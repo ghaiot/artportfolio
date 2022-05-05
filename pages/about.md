@@ -22,6 +22,13 @@ I spend all my free time reading. Writing. Drawing. Painting. Studying. Hungerin
 
 I tend to think a person is what they love. They are what they do. Thus, this is what I love. This is what I do. This is who I am.
 
+<pre>
+
+
+
+
+</pre>
+
 # Artist Statement
 
 I love art. If I had to say why, it would be the same reason I write, the reason I am fascinated by humans and their ability to create languages: for me, there is no better way to capture emotions. Mine, another's, those of some convoluted narrative I've made up. Art is expressive of thoughts and feelings in ways even words might not be. Art is a universal language, and I can think of few things as beautiful as the connections it creates between human beings, no matter how disparate they may be.
