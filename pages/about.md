@@ -33,6 +33,6 @@ I tend to think a person is what they love. They are what they do. Thus, this is
 
 I love art. If I had to say why, it would be the same reason I write, the reason I am fascinated by humans and their ability to create languages: for me, there is no better way to capture emotions. Mine, another's, those of some convoluted narrative I've made up. Art is expressive of thoughts and feelings in ways even words might not be. Art is a universal language, and I can think of few things as beautiful as the connections it creates between human beings, no matter how disparate they may be.
 
-I create art to encapsulate the fleeting, split-second moments that pass us by throughout the day. I want to immortalize thoughts, actions, any unconscious expressions of emotion. I want those instances to be *felt*, experienced. I create pictures to be read and understood, stories captured as clearly as if they were written.
+I create art to encapsulate the fleeting, split-second moments that pass us by throughout the day. I want to immortalize thoughts, actions, any unconscious expressions of emotion. I want those instances to be *felt*, experienced. I create pictures to be read and understood, stories and narratives captured as if they were written.
 
-That is my art, and that is what I want to continue creating. That, like everything else, everything that constitutes _me_, is what I love.
+That is my art, and that is what I want to continue creating. That, like everything else, everything that constitutes _me_, is what I love, and it is, quite simply, who I am.
