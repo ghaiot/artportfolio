@@ -10,7 +10,7 @@ If it's after mid-January, my age is whatever year it is minus two millennia.
 
 My name (first and middle) is rather French, somehow. I am not French.
 
-I am Cherokee, a legal citizen of the Cherokee Nation, and I'm quite proud of that heritage.
+I am Cherokee, a legal member of the Cherokee Nation, and I'm quite proud of that heritage.
 
 Rather than choosing between two loves to dictate the course of my life, I double-majored in English and art and am pursuing a master's in art history.
 
